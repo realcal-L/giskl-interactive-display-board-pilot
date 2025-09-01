@@ -5,7 +5,7 @@ Created for Garden International School for showcasing coursework, community eve
 ## Built with:
 ### Software
   - Raspberry Pi OS
-  - Python
+  - Python (libraries used: **RPi.GPIO**, **python-vlc**)
   - VLC Media Player
 
 ### Hardware 
