@@ -8,7 +8,8 @@ Created for Garden International School to showcase coursework, community events
   - Python (libraries used: **RPi.GPIO**, **python-vlc**)
   - VLC Media Player
 
-### Hardware 
+### Hardware
+  - Digital display
   - Raspberry Pi 2 (3 and 4 are also compatible)
   - HC-SR501 PIR
 
